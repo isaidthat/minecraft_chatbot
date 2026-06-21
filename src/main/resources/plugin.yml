@@ -5,7 +5,7 @@ api-version: 1.21
 
 commands:
   chat:
-    description: talk to an llm
+    description: talk to a google AI model
     usage: /chat <prompt>
   
   model:
