@@ -1,5 +1,5 @@
 # minecraft chatbot plugin
-allows you to talk to a google AI model from minecraft chat
+allows you to talk to any google AI model from minecraft chat
 
 ## commands
 - /chat <your_prompt> - talk to AI
